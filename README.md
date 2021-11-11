@@ -13,7 +13,7 @@
   
 ##
 
-### 🖥️ Tools and Tecnologies
+### 🖥 Tools and Tecnologies
 <div style="display: inline_block"><br>
   <img align="center" alt="C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="C++" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
@@ -40,7 +40,7 @@
 
 ##
 
-### 🎮 Operation System
+### 🖥 Operation System
 <div style="display: inline_block"><br>
   <img align="center" alt="Windows" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
   <img align="center" alt="iOS" height="30" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg">
@@ -48,7 +48,7 @@
 
 ##
 
-### 📫 Contact me
+### 📬 Contact me
 <div>
   <a href="https://linkedin.com/in/rafael-riki-ogawa-osiro-03073a223" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:rafaelosiro@hotmail.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
