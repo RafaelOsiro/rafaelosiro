@@ -56,4 +56,4 @@
 
 ##
 
-  ![Snake animation](https://github.com/RafaelOsiro/rafaelosiro/tree/output/github-user-contribution.svg)
+  ![Snake animation](https://github.com/RafaelOsiro/rafaelosiro/blob/output/github-contribution-grid-snake.svg)
