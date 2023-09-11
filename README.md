@@ -1,8 +1,6 @@
 ## Hello my name is Rafael Osiro
 <div>
   <h5>I'm Computer Science student at Catholic University of Brasilia (UCB)</h5>
-  <h5>I'm pos graduated in Patrimonial Forensics at Catholic University of Brasilia (UCB) at 2021</h5>
-  <h5>I'm graduated in Accounting Science at Catholic University of Brasilia (UCB) at 2016</h5>
 </div>
   
 <div align="center">
